@@ -1,6 +1,3 @@
-# Gandaia.me
-Gandaia.me é o projeto de desenvolvimento de um portal de cobertura de festas e eventos dos mais diversas vertentes e estilos: da rua ao carnaval, do baile de favela aos casamentos, das festas religiosas às populares. Um portal que fortaleça a narrativa da cultura de festas do Brasil, com foco na identidade das pessoas e suas experiências. Um portal que mistura fervo com acervo: uma fervografia!
-
 O QUE É GANDAIA.me?
 
 Gandaia.me é o projeto de desenvolvimento de um portal de cobertura de festas e eventos dos mais diversas vertentes e estilos: da rua ao carnaval, do baile de favela aos casamentos, das festas religiosas às populares. Um portal que fortaleça a narrativa da cultura de festas do Brasil, com foco na identidade das pessoas e suas experiências. Um portal que mistura fervo com acervo: uma fervografia!
